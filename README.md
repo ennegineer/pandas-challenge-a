@@ -2,11 +2,13 @@
 Homework prompt #1 for Pandas
 
 ## Option 1: Heroes of Pymoli
-Congratulations! After a lot of hard work in the data wrangling mines, you've landed a job as Lead Analyst for an independent gaming company. You've been assigned the task of analyzing the data for their most recent fantasy game Heroes of Pymoli.
+Analyzed data for a recent fantasy game, Heroes of Pymoli.
 
-Like many others in its genre, the game is free-to-play, but players are encouraged to purchase optional items that enhance their playing experience. As a first task, the company would like you to generate a report that breaks down the game's purchasing data into meaningful insights.
+Like many others in its genre, the game is free-to-play, but players are encouraged to purchase optional items that enhance their playing experience. 
 
-Your final report should include each of the following:
+The Observable_Trends.txt file is a written description of three observable trends based on the data.
+
+The Jupyter notebook file includes each of the following:
 
 ### Player Count
 
@@ -35,7 +37,7 @@ Your final report should include each of the following:
 
 ### Age Demographics
 
-* The below each broken into bins of 4 years (i.e. &lt;10, 10-14, 15-19, etc.)
+* The below each broken into bins of 4 years (i.e. less than 10, 10-14, 15-19, etc.)
   * Purchase Count
   * Average Purchase Price
   * Total Purchase Value
@@ -43,7 +45,7 @@ Your final report should include each of the following:
 
 ### Purchasing Analysis (age)
 
-* The below each broken into bins of 4 years (i.e. &lt;10, 10-14, 15-19, etc.)
+* The below each broken into bins of 4 years (i.e. less than 10, 10-14, 15-19, etc.)
   * Purchase Count
   * Average Purchase Price
   * Total Purchase Value
@@ -74,10 +76,3 @@ Your final report should include each of the following:
   * Purchase Count
   * Item Price
   * Total Purchase Value
-
-As final considerations:
-
-* You must use the Pandas Library and the Jupyter Notebook.
-* You must submit a link to your Github/Git Lab repo that contains your Jupyter Notebook.
-* You must include a written description of three observable trends based on the data.
-* See [Example Solution](HeroesOfPymoli/HeroesOfPymoli_starter.ipynb) for a reference on expected format.

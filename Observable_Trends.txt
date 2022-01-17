@@ -1,0 +1,14 @@
+**Analysis of Heroes of Pymoli Data
+
++ 576 players (84% male, 14% female, 2% other or not disclosed)
++ 179 items, avg price $3.05
++ 780 purchases, $2,379.99 in revenue
+
+
+**Trends observed in the data:
+
+   While males make up 84% of the player population, they spend the least money per purchase.
+
+   Almost 45% of players are in the age range of 20-24, with almost 77% being in the age range of 15-29. Only about 5% of players are below 10 or over 40.
+
+   The top 5 items by total purchase value make up almost 10% of the total revenue across all 179 items.
